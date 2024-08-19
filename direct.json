@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "piggo.me",
+        "invites.fun",
+        "linux.do"
+      ]
+    }
+  ]
+}
