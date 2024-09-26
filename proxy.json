@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "star-space.net"
+        "star-space.net",
+        "hudbt.hust.edu.cn"
       ],
       "process_path": [
         
