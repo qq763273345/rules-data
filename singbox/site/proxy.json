@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "star-space.net",
+        "hudbt.hust.edu.cn",
+        "byr.pt"
+      ],
+      "process_path": [
+        
+      ],
+      "process_name": [
+        
+      ]
+    }
+  ]
+}
