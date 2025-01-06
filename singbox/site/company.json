@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "meidonguc.nbport.com.cn",
+        "jtoa.zjseaport.com"
+      ],
+      "domain": [
+        "devytg.nbedi.com"
+      ]
+    }
+  ]
+}
