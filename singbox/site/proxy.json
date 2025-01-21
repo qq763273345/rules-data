@@ -8,6 +8,9 @@
         "byr.pt",
         "cloudflare.com"
       ],
+      "domain": [
+        "challenges.cloudflare.com"
+      ],
       "process_path": [
         
       ],
